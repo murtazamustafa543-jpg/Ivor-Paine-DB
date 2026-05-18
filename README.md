@@ -147,9 +147,3 @@ All requests go to `api.php?action=<action_name>`.
 - **Responsive tables** with search and filtering
 
 ---
-
-## Course Info
-
-**Subject:** Database Systems Lab — SP26  
-**Institution:** FAST NUCES Islamabad  
-**Database:** `HospitalDB_v2`
